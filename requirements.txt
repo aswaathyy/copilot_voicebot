@@ -1,0 +1,4 @@
+llama-cpp-python
+whisper
+pyttsx3
+speechrecognition
